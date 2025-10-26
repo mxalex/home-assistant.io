@@ -219,6 +219,7 @@ These are some of the solutions that Home Assistant users have reported as solvi
 - Log out of the Tapo and Kasa apps, factory reset the device, log back in to the Tapo app, then re-add the device to the Tapo app.
 - Specifically for cameras, disable and re-enable the **Settings** > **Advanced Settings** > **Camera account** options in the Tapo app.
 - Specifically for cameras, reset the **Settings** > **Advanced Settings** > **Camera account** credentials in the Tapo app.
+- Some TP-Link cloud password using special characters like percent symbol % can prevent authentication.
 
 ### Unavailable entities
 
